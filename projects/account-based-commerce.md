@@ -43,7 +43,7 @@ class AccountNumberService {
 }
 ```
 
-###2. Clear Domain Separation
+### 2. Clear Domain Separation
 Business logic is kept out of controllers and isolated within service classes.
 
 ```php
