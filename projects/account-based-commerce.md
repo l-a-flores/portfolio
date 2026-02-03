@@ -20,7 +20,7 @@ The system was built with long-term maintainability in mind and structured to re
 
 ## System Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8f3c8cc-a2f0-4a27-8d81-009db254d3e4" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f77ffdef-b729-461e-8920-da307738583a" />
 
 This is a simplified representation focused on business flow rather than implementation detail.
 
