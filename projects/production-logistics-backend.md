@@ -34,7 +34,7 @@ Keeps input handling separate from business logic.
 
 ---
 
-### 3. Incremental Refactoring Strategy
+## Incremental Refactoring Strategy
 
 Legacy code was refactored gradually to avoid disrupting live operations.
 ```php
