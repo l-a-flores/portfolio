@@ -58,6 +58,7 @@ class ClientRegistrationService {
     }
 }
 ```
+---
 
 ## Refactoring Example (Legacy → Maintainable)
 Before
